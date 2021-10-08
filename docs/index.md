@@ -8,6 +8,6 @@ The Bacillus-derived glycosyltransferase (GT) BmmGT1 exhibited broad substrate f
 
 # <span style="color:royalblue"> **Our Team** </span>
 
-Team UOregon is based out of the Plesa lab at the Univeristy of Oregon's Knight Campus for Accelerating Scientific Impact. Our group focuses on developing high-throughput technologies to characterize sequence space, and we are interested in leveraging directed evolution as a strategy to explore natural adaptation and engineer proteins.
+Team OUC-Marine_Drugs is based on the Ocean University of China. 
 
 <img width="945" alt="Team_Photo" src="https://github.com/lilywang23/images/blob/main/Flow%20scheme%20of%20directed%20evolution%20of%20BmmGT1.png">
