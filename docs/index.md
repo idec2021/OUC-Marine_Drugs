@@ -10,6 +10,3 @@ The Bacillus-derived glycosyltransferase (GT) BmmGT1 exhibited broad substrate f
 
 Team OUC-Marine_Drugs is based on the Ocean University of China.
 
-
-
- 
