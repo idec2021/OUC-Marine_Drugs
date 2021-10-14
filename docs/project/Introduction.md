@@ -11,4 +11,4 @@
   
   Herein, we developed a 3-acetyl-7-hydroxycoumarin-based ultraviolet spectrophotometry screening method. Saturation mutation of the sugar binding sites in BmmGT1 was performed and mutants with enhanced glucosylation activities towards 3-acetyl-7-hydroxycoumarin were screened. Furthermore, the catalytic activities of these mutants towards alternative sugar acceptors (MLN A, piericidin A and 3,4-dichloroaniline)were assessed (Fig1). 
   
-  <img width="580" alt="Figure1" src="https://github.com/lilywang23/images/blob/main/figure1.png">
+  <img width="647" alt="Figure1" src="https://github.com/lilywang23/images/blob/main/figure1.png">
