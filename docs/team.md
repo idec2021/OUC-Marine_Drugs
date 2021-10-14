@@ -5,7 +5,7 @@
 Team OUC-Marine_Drugs is based on the Ocean University of China，Laboratory for Marine Drugs and Bioproducts of Qingdao National Laboratory for Marine Science and Technology. Our team focuses on enhancing glycosyltransferase  efficiency.
 
 ### <span style="color:royalblue"> TEAM </span> 
-![GraphicalOverview](https://github.com/lilywang23/images/blob/main/team.jpg)
+![GraphicalOverview](https://cdn.jsdelivr.net/gh/lilywang23/images/team.jpg)
 
 ### <span style="color:royalblue"> TEAM MEMBERS </span> 
 
