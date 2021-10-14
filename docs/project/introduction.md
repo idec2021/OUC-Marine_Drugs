@@ -15,5 +15,5 @@ Coumarins are a class of naturally-occurring phenolic compounds featuring anα-p
   
 Herein, we developed a 3-acetyl-7-hydroxycoumarin-based ultraviolet spectrophotometry screening method. Saturation mutation of the sugar binding sites in BmmGT1 was performed and mutants with enhanced glucosylation activities towards 3-acetyl-7-hydroxycoumarin were screened. Furthermore, the catalytic activities of these mutants towards alternative sugar acceptors (MLN A, piericidin A and 3,4-dichloroaniline)were assessed (Fig1). 
   
-<img width="597" alt="Figure1" src="https://github.com/lilywang23/images/blob/main/figure1.png">
+<img  alt="Figure1" src="https://cdn.jsdelivr.net/gh/lilywang23/images/figure1.png">
 
