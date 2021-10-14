@@ -44,7 +44,7 @@ nav:
   - Project:
       - Introduction: project/introduction.md
       - Results: project/results.md
-      - Post: project/BmmGT1.pdf
+      - Poster: project/BmmGT1.pdf
   - Documentation:
       - Protocols: documentation/protocols.md
   - Some useful features: useful_features.md
