@@ -42,7 +42,7 @@ nav:
   - Home: index.md
   - Team: team.md
   - Project:
-      - Introduction: project/introduction.md
+      - Introduction: project/Introduction.md
       - Results: project/results.md
       - Poster: project/BmmGT1.pdf
   - Documentation:
