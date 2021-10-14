@@ -10,4 +10,4 @@ The Bacillus-derived glycosyltransferase (GT) BmmGT1 exhibited broad substrate f
 
 Team OUC-Marine_Drugs is based on the Ocean University of China，Laboratory for Marine Drugs and Bioproducts of Qingdao National Laboratory for Marine Science and Technology. Our team focuses on enhancing glycosyltransferase efficiency.
 
-<img width="945" alt="Team_Photo" src="https://github.com/lilywang23/images/blob/main/team.jpg">
+<img width="4000" alt="Team_Photo" src="https://github.com/lilywang23/images/blob/main/team.jpg">
