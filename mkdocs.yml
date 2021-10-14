@@ -47,4 +47,5 @@ nav:
       - Post: documentation/post.md
   - Documentation:
       - Protocols: documentation/protocols.md
+  - Some useful features: useful_features.md
       
